@@ -9,5 +9,5 @@ approvedOrNot(7);
 const nota = 3;
 
 if (nota<=6){
-    console.log("Você é a vergonha da família")
+    console.log("Você é a vergonha da profession")
 }
